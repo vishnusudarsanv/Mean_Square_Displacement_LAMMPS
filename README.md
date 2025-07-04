@@ -1,0 +1,1 @@
+# Mean_Square_Displacement_LAMMPS
