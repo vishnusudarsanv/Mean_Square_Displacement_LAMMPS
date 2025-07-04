@@ -1,6 +1,6 @@
-system_path=/home/vishnu/Documents/Vishnu/New_Build/New_Sim/LAGP_PEO/prod/
+system_path="Parent directry of the trajactory  file"
 trj_filename="production.lammpstrj"
-output_file="msd_lip_4b_1_wp.dat"
+output_file="output file"
 lip= 18
 lig=3
 dist_int= 0.0
